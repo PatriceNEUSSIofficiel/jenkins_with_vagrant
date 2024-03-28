@@ -32,9 +32,3 @@ La configuration Vagrant est définie dans le fichier `Vagrantfile`. Voici les p
    - Hôte : 192.168.5.2
    - Nom d'utilisateur : vagrant
    - Mot de passe : vagrant
-
-N'hésitez pas à personnaliser la configuration selon vos besoins en modifiant le fichier Vagrantfile ou en ajoutant d'autres scripts de provisionnement.
-
-## Auteur
-
-Ce projet Vagrant a été créé par [Votre Nom](https://github.com/votre-utilisateur).
